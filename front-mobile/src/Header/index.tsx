@@ -19,7 +19,13 @@ const styles = StyleSheet.create({
       justifyContent: 'center'
   },
   text: {
-      
+      fontWeight: 'bold',
+      fontSize: 18,
+      lineHeight: 25,
+      letterSpacing: -0.24,
+      color: '#FFFFFF',
+      marginLeft: 15,
+      fontFamily: 'OpenSans_700Bold'
   }
 });
 
